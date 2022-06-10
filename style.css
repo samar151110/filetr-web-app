@@ -1,0 +1,16 @@
+h2{
+    width: 400px;
+}
+body{
+    background-color: rgb(48, 217, 57);
+}
+.btn-warning:hover{
+    background-color: red;
+    width: 180px;
+}
+
+canvas{
+    border: 5px;
+    border-color: black;
+    border-style: dashed;
+}
